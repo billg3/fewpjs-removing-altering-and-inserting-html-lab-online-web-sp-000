@@ -11,4 +11,4 @@ newHeader.id = "victory"
 
 newHeader.innerHTML = "Flatrion is the champion!";
 
-newHeader.className = "victory"
+newHeader.className = "victory";
