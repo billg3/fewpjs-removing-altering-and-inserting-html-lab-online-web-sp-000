@@ -12,7 +12,3 @@ newHeader.id = "victory"
 newHeader.innerHTML = "Flatrion School is the champion!";
 
 newHeader.class
-
-
-
-
