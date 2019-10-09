@@ -1,3 +1,3 @@
 // Write your code here!
 
-document.querySelector("main").remove 
+document.querySelector("main").remove
